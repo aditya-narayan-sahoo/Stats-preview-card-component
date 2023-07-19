@@ -29,7 +29,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### Links
 
 - Solution URL: [https://github.com/aditya-narayan-sahoo/Stats-preview-card-component](https://github.com/aditya-narayan-sahoo/Stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://spiffy-medovik-6a2df1.netlify.app/](https://spiffy-medovik-6a2df1.netlify.app/)
 
 ## My process
 
